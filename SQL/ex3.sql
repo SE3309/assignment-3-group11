@@ -1,4 +1,4 @@
-nsert into Place(placeName, streetNo, streetName, city, province, country, postalCode, description)
+insert into Place(placeName, streetNo, streetName, city, province, country, postalCode, description)
 values( 'University Community Centre (UCC) Western',
     '1151',
     'Richmond Street',
